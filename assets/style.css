@@ -16,6 +16,7 @@ body {
 }
 header {
   color: #7ECA9C; 
+  text-decoration: underline; 
   text-align: center; 
 } 
 
