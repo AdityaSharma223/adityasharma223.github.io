@@ -48,5 +48,7 @@ img {
 	max-width: 90% ;
 	margin: auto ;
 	display: block ;
-	border: none ;
+  border-radius: 25px;
+  border: 2px solid gray;
+  padding: 2px;
 }
