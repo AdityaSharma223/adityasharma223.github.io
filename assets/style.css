@@ -1,6 +1,5 @@
 body {
- background-color: #161616;  
- text-align: center;
+ background-color: black;  
  margin-bottom: 200px ;
  max-width: 800px ;
  color: #ECDBBA;
@@ -51,27 +50,3 @@ img {
 	display: block ;
 	border: none ;
 }
-
-.topnav {
-	background-color: #161616;
-	overflow: hidden;
-  }
-  
-  .topnav a {
-	float:none;
-	color: #f2f2f2;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
-  }
-  
-  .topnav a:hover {
-	background-color: #C84B31;
-	color: black;
-  }
-  
-  .topnav a.active {
-	background-color: #7ECA9C;
-	color: #161616;
-  }
