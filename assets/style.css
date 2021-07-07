@@ -6,6 +6,9 @@ body {
  margin: auto; 
 }
 
+h3 {
+  color: #33cc77; 
+}
 
 @media (min-width: 55em) {
 	#artlist { column-count: 2 ;}
