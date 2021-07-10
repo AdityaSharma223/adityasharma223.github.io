@@ -1,63 +1,63 @@
 body {
- background-color: #272822;  
- margin-bottom: 200px ;
- max-width: 800px ;
- color: #ECDBBA;
- margin: auto; 
+    background-color: #272822;  
+    margin-bottom: 200px ;
+    max-width: 800px ;
+    color: #ECDBBA;
+    margin: auto; 
 }
 
 h3 {
-  color: #33cc77; 
+    color: #33cc77; 
 }
 
 @media (min-width: 55em) {
-	#artlist { column-count: 2 ;}
+    #artlist { column-count: 2 ;}
 }
 
 @media (min-width: 100em) {
-	#artlist { column-count: 3 ;}
+    #artlist { column-count: 3 ;}
 }
 header {
-  color: #F92672; 
-  text-decoration: underline; 
-  text-align: center; 
+    color: #F92672; 
+    text-decoration: underline; 
+    text-align: center; 
 } 
 
 a {
-	color: #A6E22E ;
-  
+    color: #A6E22E ;
+
 }
 
 
 a:visited {
-	color: #66D9EF;
+    color: #66D9EF;
 }
 a:hover {
-  color: #F92672;
+    color: #F92672;
 }
 
 ul {
-	list-style-type: none;
-	text-align: center;
+    list-style-type: none;
+    text-align: center;
 }
 
 h2 {
-  color: #FD971F;
-  text-align: center;
+    color: #FD971F;
+    text-align: center;
 } 
 p img, li img, h1 img, h2 img, h3 img, h4 img {
-	vertical-align: middle ;
-	max-width: 1em;
-	max-height: 1em;
-	border: none ;
-	display: inline ;
+    vertical-align: middle ;
+    max-width: 1em;
+    max-height: 1em;
+    border: none ;
+    display: inline ;
 }
 
 img {
-	max-width: 90% ;
-	margin: auto ;
-	display: block ;
-  border-radius: 25px;
-  border: 2px solid gray;
-  padding: 1px;
+    max-width: 90% ;
+    margin: auto ;
+    display: block ;
+    border-radius: 25px;
+    border: 2px solid gray;
+    padding: 1px;
 }
