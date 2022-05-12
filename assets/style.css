@@ -1,6 +1,6 @@
 body {
-    color: #ebdbb2; 
-    background-color: #282828;
+    color: #f8bd75; 
+    background-color: #3e4e50;
     top: 0;
     left: 0;
     width: 99%;
@@ -13,6 +13,18 @@ p {
     display: table-cell;
     vertical-align: middle;
     text-align: center
+}
+
+a {
+    color: #f8bd75;
+}
+
+a:visited {
+    color: #f8bd75;;
+}
+
+a:hover {
+    color: #facfad;
 }
 
 img {
